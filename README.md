@@ -1,3 +1,3 @@
-Certificates for some of the completed courses are in the certificates folder.
+Certificates for completed Data Science courses.
 
-Portfolio consists of Kaggle practice projects.
+Practice project portfolio.
